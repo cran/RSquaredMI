@@ -1,0 +1,8 @@
+d7592887cff3ff0a5606d7cd62c3767d *DESCRIPTION
+0d27339d2993156c1bcc7719f281f431 *NAMESPACE
+0228562b2ed09828b7f9e8926ebc2721 *R/RsquareMI.R
+aa5e5a2cbfaea3d9b6cdbe378ac48cee *build/partial.rdb
+9b1a5eaa8d8e89fb669542a4ec78dc25 *man/RsquareSP.Rd
+e348aaee759291526c98ffb34f2d9ec5 *tests/testthat.R
+f2e599a793fcc29ad225f70c1f6412a2 *tests/testthat/setup.R
+fac81e8942f5880c6019226dbc187ea1 *tests/testthat/test-RsquaredMI.R
